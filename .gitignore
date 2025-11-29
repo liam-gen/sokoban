@@ -3,5 +3,6 @@ sus.sok
 .vs/
 .vs/*
 .vscode/
-aide.txt
-main
+.file
+bin/*
+!bin/.gitkeep
