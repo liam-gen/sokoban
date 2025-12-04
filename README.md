@@ -1,7 +1,6 @@
 <br />
 <div align="center">
-  <h3 align="center">SOKOBAN</h3>
-
+  <h1 align="center">SOKOBAN</h1>
 
   <p align="center">
     Sokoban est un jeu de puzzle classique créé en 1981 au Japon. Le joueur doit pousser des caisses sur des emplacements cibles.
