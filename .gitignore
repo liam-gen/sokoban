@@ -6,3 +6,4 @@ sus.sok
 .file
 bin/*
 !bin/.gitkeep
+friends/
